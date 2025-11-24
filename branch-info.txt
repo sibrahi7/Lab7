@@ -7,17 +7,20 @@ Branches in this repo (with details):
     53b4d69 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T18:44:11Z | Bump python in /presidio-anonymizer
     f4dbfa6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:43:40Z | Auto-update branch-info.txt
     2f5578e | Author: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T14:43:27-04:00 | Initial commit
-- dependabot/github_actions/actions/checkout-5
-  SHA: 64b2494d0bc4bfefc93a10ccb3e9846dca1b0fba
-  Commits: 3
+- dependabot/github_actions/actions/checkout-6
+  SHA: 303db4193a5e0f5e89c7c7b780b26a6475586a83
+  Commits: 5
   Recent commits:
-    64b2494 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T18:44:06Z | Bump actions/checkout from 3 to 5
+    303db41 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-24T00:42:50Z | Bump actions/checkout from 3 to 6
+    45dde52 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:44:19Z | Auto-update branch-info.txt
+    dcdb76c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:44:13Z | Auto-update branch-info.txt
     f4dbfa6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:43:40Z | Auto-update branch-info.txt
     2f5578e | Author: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T14:43:27-04:00 | Initial commit
 - main
-  SHA: dcdb76c042484e7b12b42627d56597750eefb437
-  Commits: 3
+  SHA: 45dde52e5b17fe6e5f85b385612248d949ae6122
+  Commits: 4
   Recent commits:
+    45dde52 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:44:19Z | Auto-update branch-info.txt
     dcdb76c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:44:13Z | Auto-update branch-info.txt
     f4dbfa6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:43:40Z | Auto-update branch-info.txt
     2f5578e | Author: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T14:43:27-04:00 | Initial commit
