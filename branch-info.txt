@@ -26,11 +26,11 @@ Branches in this repo (with details):
     dcdb76c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:44:13Z | Auto-update branch-info.txt
     f4dbfa6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:43:40Z | Auto-update branch-info.txt
 - main
-  SHA: 9846cfa6de18da195dddca1ba381d26b8144d297
-  Commits: 9
+  SHA: ff910ef778abb3c48789f2a8660c199b2c47baa9
+  Commits: 11
   Recent commits:
+    ff910ef | Author: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Committer: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Date: 2025-12-20T05:32:44Z | Fix OperatorType import and add required operator tests
+    7d33d69 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-12-20T05:32:53Z | Auto-update branch-info.txt
     9846cfa | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-12-20T05:03:00Z | Auto-update branch-info.txt
     bfc67fd | Author: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Committer: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Date: 2025-12-20T05:01:41Z | Merge branch 'lab7'
     8d06801 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-12-20T05:00:30Z | Auto-update branch-info.txt
-    cf1b35fd | Author: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Committer: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Date: 2025-12-20T05:00:15Z | Lab 7: logging tests, encrypt coverage, and conflict resolution
-    dc69eff | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T00:42:58Z | Auto-update branch-info.txt
