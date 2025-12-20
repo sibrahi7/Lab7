@@ -1,8 +1,9 @@
 from unittest import mock
 import pytest
 
-from presidio_anonymizer.operators import Encrypt, AESCipher
+from presidio_anonymizer.operators import Encrypt, AESCipher, OperatorType
 from presidio_anonymizer.entities import InvalidParamError
+
 
 
 @mock.patch.object(AESCipher, "encrypt")
@@ -77,3 +78,11 @@ def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(
 def test_valid_keys(key):
     # Should not raise any exception
     Encrypt().validate(params={"key": key})
+def test_operator_name():
+    operator = Encrypt()
+    assert operator.operator_name() == "encrypt"
+
+
+def test_operator_type():
+    operator = Encrypt()
+    assert operator.operator_type() == OperatorType.Anonymize
