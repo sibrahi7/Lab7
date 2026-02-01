@@ -1,12 +1,14 @@
 Branches in this repo (with details):
 
-- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
-  SHA: 53b4d692ca60d89e7005efb5f84f10ff0c4c7f9d
-  Commits: 3
+- dependabot/docker/presidio-anonymizer/python-3.15.0a5-windowsservercore
+  SHA: 42462d5348a3de37c7fe2e54533331836537d479
+  Commits: 13
   Recent commits:
-    53b4d69 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T18:44:11Z | Bump python in /presidio-anonymizer
-    f4dbfa6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:43:40Z | Auto-update branch-info.txt
-    2f5578e | Author: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T14:43:27-04:00 | Initial commit
+    42462d5 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2026-02-01T00:49:57Z | Bump python in /presidio-anonymizer
+    b9a0165 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-12-20T05:46:35Z | Auto-update branch-info.txt
+    ff910ef | Author: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Committer: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Date: 2025-12-20T05:32:44Z | Fix OperatorType import and add required operator tests
+    7d33d69 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-12-20T05:32:53Z | Auto-update branch-info.txt
+    9846cfa | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-12-20T05:03:00Z | Auto-update branch-info.txt
 - dependabot/github_actions/actions/checkout-6
   SHA: 303db4193a5e0f5e89c7c7b780b26a6475586a83
   Commits: 5
@@ -26,11 +28,11 @@ Branches in this repo (with details):
     dcdb76c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:44:13Z | Auto-update branch-info.txt
     f4dbfa6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:43:40Z | Auto-update branch-info.txt
 - main
-  SHA: ff910ef778abb3c48789f2a8660c199b2c47baa9
-  Commits: 11
+  SHA: b9a0165bca05355f24396eaf34570e03bb2c5ed6
+  Commits: 12
   Recent commits:
+    b9a0165 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-12-20T05:46:35Z | Auto-update branch-info.txt
     ff910ef | Author: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Committer: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Date: 2025-12-20T05:32:44Z | Fix OperatorType import and add required operator tests
     7d33d69 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-12-20T05:32:53Z | Auto-update branch-info.txt
     9846cfa | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-12-20T05:03:00Z | Auto-update branch-info.txt
     bfc67fd | Author: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Committer: Salma Ibrahim <211903196+sibrahi7@users.noreply.github.com> | Date: 2025-12-20T05:01:41Z | Merge branch 'lab7'
-    8d06801 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-12-20T05:00:30Z | Auto-update branch-info.txt
